@@ -1,0 +1,3 @@
+﻿  MpiBFS.cpp
+D:\3 курс\3 курс 2 семестр\паралельне\лаба\MpiBFS\MpiBFS\MpiBFS.cpp(65,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MpiBFS.vcxproj -> D:\3 курс\3 курс 2 семестр\паралельне\лаба\MpiBFS\Debug\MpiBFS.exe
